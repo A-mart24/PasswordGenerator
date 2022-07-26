@@ -6,5 +6,6 @@ For this weeks homework assignment I was tasked with completing a password gener
 USER STORY:
 
 AS AN employee with access to sensitive data I WANT to randomly generate a password that meets certain criteria SO THAT I can create a strong password that provides greater security
+Link:https://a-mart24.github.io/PasswordGenerator/
 
 <img width="1199" alt="image" src="https://user-images.githubusercontent.com/99901675/181104979-aed6683f-9016-40ec-9fed-9c2ddb74d942.png">
